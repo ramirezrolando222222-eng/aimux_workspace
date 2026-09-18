@@ -1,1 +1,6 @@
+.env
+/pgdata/
+/db_backups/
 *.log
+__pycache__/
+*.pyc
